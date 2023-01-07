@@ -1,0 +1,328 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.banner{
+    background-image: url("image/banner.png");
+    height: 800px;
+}
+
+.bannerText{
+    width: 550px;
+    text-align: right;
+    float: right;
+    padding-top: 262px;
+    padding-right: 230px;
+     
+}
+
+.bannerHeadingtext{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #151414; 
+}
+
+.bannerDescription{
+    font-weight: 400;
+    color: #444343;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 26px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.btn a{
+text-decoration: none;
+color: #ffffff;
+font-size: 20px;
+font-weight: 600;
+line-height: 26px;
+font-family: 'Work Sans', sans-serif;
+}
+
+.btn{
+    padding: 14px 16px;
+    background: #F63B34;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 20px;
+}
+
+/* ==================banner section end================ */
+
+
+
+
+
+.middleSection{
+    padding-top: 110px;
+}
+
+.image img{
+    width: 550px;
+    padding-left: 230px;
+}
+
+.textSection{
+    float: right;
+    width: 416px;
+    padding-right: 250px;
+    margin-top: -470px;
+}
+
+.headingTitle {
+    font-size: 40px;
+    line-height: 46px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    color: #151414;
+}
+
+.middleDescription{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    color: #444343;
+    padding-top: 20px;
+}
+
+.listItemsection{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    color: #444343;
+    padding-top: 20px;
+}
+
+.fa-check{
+    color: #259225bf;;
+}
+
+/* ===============================end middle section==================== */
+
+
+
+
+.myPlan{
+    padding-top: 110px;
+}
+
+.plan {
+    text-align: center;
+    font-size: 40px;
+    line-height: 46px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.planCategory{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.webDevelopment{
+    display:inline-block;
+    text-align: center;
+    padding-right: 70px;
+}
+
+.webDevelopment img {
+    height: 75px;
+    padding-bottom: 20px;
+}
+
+.javaScript{
+    display:inline-block;
+    text-align: center;
+    padding-right: 70px;
+    
+}
+
+.javaScript img {
+    height: 75px;
+    padding-bottom: 20px;
+}
+
+.SmokingHabit{
+    display:inline-block;
+    text-align: center;
+    padding-right: 70px;
+}
+
+.SmokingHabit img {
+    height: 75px;
+    padding-bottom: 20px;
+}
+
+.eCommerce{
+    display:inline-block;
+    text-align: center;
+}
+
+.eCommerce img {
+    height: 60px;
+    padding-bottom: 20px;
+}
+
+.planCategorytitle {
+    font-size: 30px;
+    line-height: 35px;
+    font-weight: 700;
+    color: #151414;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.planCategorydescription {
+    font-weight: 500;
+    font-size: 23px;
+    font-family: 'Work Sans', sans-serif;
+    color: #737272;
+    padding-top: 10px;
+}
+
+/* =======================plan section end============================ */
+
+
+
+
+.gradientSection {
+    margin-top: 90px;
+    background-image: url(image/watch.png);
+    background-repeat: no-repeat;
+    height: 260px;
+    width: 1140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 150px;
+}
+
+.gradientSectiontitle {
+    width: 460px;
+    padding: 50px 100px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.callNow {
+    padding: 20px 40px;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Work Sans', sans-serif;
+    color: #F63B34;
+    margin-top: -20px;
+}
+
+/* ========================gradient section end================ */
+
+
+.footer{
+    background-color: black;
+}
+
+
+.leftSide {
+    float: left;
+    width: 500px;
+    padding-left: 230px;
+
+}
+
+.rightSide {
+    float: right;
+    padding-right: 230px;
+
+}
+
+
+.future {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 52px;
+}
+
+
+.footerText {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 10px;
+}
+
+.email {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 10px;
+}
+
+.phone {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 10px;
+}
+
+.socialIcon{
+    paddting-top:20px;
+}
+
+.facebook{
+    float: left;
+}
+
+.twitter{
+    float: left;
+}
+
+
+.subscribe{
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+
+
+#emails {
+    padding: 13px;
+    width: 240px;
+    height: 30px;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+
+
+button.btnSubscribe {
+    padding: 16px;
+    margin-top: 12px;
+    width: 130px;
+    color: #F63B34;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    background: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+
+
